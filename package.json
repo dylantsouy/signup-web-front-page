@@ -18,7 +18,6 @@
     "start": "node server.js",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "heroku-postbuild": "ng build --configuration=production",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
